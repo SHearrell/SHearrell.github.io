@@ -35,7 +35,7 @@ border-radius: 25%;
     flex-wrap:wrap;
     margin-right: 100px;
     margin-left: 100px;
-    justify-content: center;
+    justify-content: right;
     }
     .about p {
     width:50%;
@@ -44,8 +44,8 @@ border-radius: 25%;
     line-height: 125%;
     }
     .about img {
-    width: 150px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 25%;
     border: 2px solid rgb(126, 14, 201);
     }
