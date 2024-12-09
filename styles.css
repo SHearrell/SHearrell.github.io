@@ -16,11 +16,11 @@ h2{
     flex-wrap:wrap; 
 } 
 .project {
-width: 35%;
+width: 30%;
 margin: 10px;
 padding: 20px 10px;
 background: rgb(165, 158, 158); 
-border-radius: 25%;
+border-radius: 20%;
 }
 .project img{
     width: 250px;
