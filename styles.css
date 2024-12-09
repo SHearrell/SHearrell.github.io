@@ -1,14 +1,14 @@
 body{
-    background-color:rgb(189, 153, 201);
+    background-color:rgb(157, 109, 173);
     font-family:'Times New Roman', Times, serif;
 }
 h1{
     text-align:center;
-    color:rgb(228, 226, 146);
+    color:rgb(146, 228, 207);
 }
 h2{
     text-align:left;
-    color:rgb(49, 51, 47);
+    color:rgb(0, 0, 0);
 }
 
 .projects { 
@@ -19,7 +19,7 @@ h2{
 width: 30%;
 margin: 10px;
 padding: 20px 10px;
-background: white; 
+background: rgb(66, 61, 61); 
 border-radius: 25%;
 }
 .project img{
