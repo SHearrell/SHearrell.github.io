@@ -17,14 +17,14 @@ h2{
 } 
 .project {
 width: 30%;
-margin: 10px;
-padding: 20px 10px;
+margin: 20px;
+padding: 30px 15px;
 background: rgb(165, 158, 158); 
 border-radius: 25%;
 }
 .project img{
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     margin: 10px;
     border: 2px solid rgb(255, 255, 255); 
     margin: auto;
